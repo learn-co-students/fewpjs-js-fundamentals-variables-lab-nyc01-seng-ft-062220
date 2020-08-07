@@ -32,12 +32,14 @@
     "chai": "^4.2.0",
     "file-system": "^2.2.2",
     "jsdom": "^9.2.1",
-    "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.0.1",
+    "mocha-multi-reporters": "^1.1.7",
     "sinon": "^7.3.1"
   },
   "dependencies": {
-    "expect": "^24.7.1"
+    "expect": "^24.7.1",
+    "mocha": "^8.1.0",
+    "nodejs": "0.0.0"
   }
 }
